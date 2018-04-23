@@ -1,0 +1,6 @@
+[submodule "external/Keeg.IO"]
+	path = external/Keeg.IO
+	url = https://github.com/namralkeeg/Keeg.IO.git
+[submodule "external/Keeg.Hashing"]
+	path = external/Keeg.Hashing
+	url = https://github.com/namralkeeg/Keeg.Hashing.git

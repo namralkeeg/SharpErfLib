@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keeg.Hashing", "external\Keeg.Hashing\Keeg.Hashing.csproj", "{A944C53D-DD0C-4766-B973-0108DA6F8A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keeg.IO", "external\Keeg.IO\Keeg.IO\Keeg.IO.csproj", "{BC1FAC0F-F5EF-4F41-9643-A1A1EAB93B5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keeg.SharpErfLib", "src\Keeg.SharpErfLib\Keeg.SharpErfLib.csproj", "{8119D678-6128-459F-B645-7DD40A701A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A944C53D-DD0C-4766-B973-0108DA6F8A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A944C53D-DD0C-4766-B973-0108DA6F8A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A944C53D-DD0C-4766-B973-0108DA6F8A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A944C53D-DD0C-4766-B973-0108DA6F8A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1FAC0F-F5EF-4F41-9643-A1A1EAB93B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1FAC0F-F5EF-4F41-9643-A1A1EAB93B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1FAC0F-F5EF-4F41-9643-A1A1EAB93B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1FAC0F-F5EF-4F41-9643-A1A1EAB93B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8119D678-6128-459F-B645-7DD40A701A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8119D678-6128-459F-B645-7DD40A701A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8119D678-6128-459F-B645-7DD40A701A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8119D678-6128-459F-B645-7DD40A701A51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1793128-DF79-4883-99E7-EA5C926C5A1B}
+	EndGlobalSection
+EndGlobal
